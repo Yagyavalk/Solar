@@ -1,5 +1,3 @@
-Renewable energy student at TERI University
-
 YAGYAVALK BHATT
 
 PERSONAL DETAILS
