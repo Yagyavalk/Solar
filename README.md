@@ -31,25 +31,18 @@ Bhartiya Vidya Bhavan, New Delhi, India. May 2005
 
 Professional Experience
 
-KAPSARC (King Abdullah Petroleum Studies And Research Center) 1st June - 2nd August
-2015
+KAPSARC (King Abdullah Petroleum Studies And Research Center) 1st June - 2nd August 2015
+
 • Worked on developing a comprehensive policy reference tool (KEPD-India) focusing on India’s
-renewable energy policies to facilitate understanding of the Indian Renewable energy market, policy
-objectives, and policy focus areas, track the evolution of policies from draft to enactment to
-amendments and to enable qualitative/quantitative analysis and assessing effects of exogenous
-factors.
+renewable energy policies to facilitate understanding of the Indian Renewable energy market, policy objectives, and policy focus areas, track the evolution of policies from draft to enactment to amendments and to enable qualitative/quantitative analysis and assessing effects of exogenous factors.
 
-• KAPSARC Database coding of 13 state specific solar policies, Jawahar Lal Nehru Solar Mission
-and 20 federal level solar schemes.
+• KAPSARC Database coding of 13 state specific solar policies, Jawahar Lal Nehru Solar Mission and 20 federal level solar schemes.
 
-• Worked on analysis design of the template for the solar policies of 13 states with specific solar
-policies.
+• Worked on analysis design of the template for the solar policies of 13 states with specific solar policies.
 
-• Worked on designing a tool to showcase solar energy policy framework of all the Indian states on
-Tableau. ( http://kepd.kapsarc.org/home#?searchType=india (link solar atlas))
+• Worked on designing a tool to showcase solar energy policy framework of all the Indian states on Tableau. ( http://kepd.kapsarc.org/home#?searchType=india (link solar atlas))
 
-HESCO (Himalayan Environmental Studies and Conservation Organization) January 2014 -
-Till date
+HESCO (Himalayan Environmental Studies and Conservation Organization) January 2014 - Till date
 
 • Working on the proposal of Watermill Training centre with Ministry of New and Renewable Energy
 
@@ -58,7 +51,9 @@ Till date
 • Worked on decentralised Renewable energy systems.
 
 • Worked on proposals UREDA and UNIDO office for the proposals of various Gharats for installation of such
+
 renewable energy generation system in an area that is feasible on various economic, social, Technical and
+
 environment parameters.
 
 • Worked on Proposals for revival of watermills in Himalayan region with Ministry of New and Renewable
